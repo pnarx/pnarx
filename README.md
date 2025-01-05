@@ -1,4 +1,4 @@
- [![MasterHead](https://www.narproject.com.tr/wp-content/uploads/2019/06/progamming_logo.png)
+[![MasterHead](https://www.narproject.com.tr/wp-content/uploads/2019/06/progamming_logo.png)
 <h1 align="center">Hi 👋, I'm Pınar Gürültü</h1>
 <h3 align="center">Web developer in Turkey</h3>
 
